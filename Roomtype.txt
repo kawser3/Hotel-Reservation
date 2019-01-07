@@ -1,0 +1,22 @@
+
+
+*****************************************************************
+||     TYPE       ||  Chage/night  || Availability  ||
+*****************************************************************
+
+1.Super Delux Suite.   30,000BDT           YES
+
+
+2.Delux Suite.         25,000BDT           YES
+
+
+3.Couple Suite.        19,000BDT           YES
+
+
+4.General Suite.       16,000BDT           YES
+
+
+5.Santdard suite.      12,000BDT           YES
+
+
+
